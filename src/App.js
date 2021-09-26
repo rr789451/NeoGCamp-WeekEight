@@ -7,7 +7,12 @@ var emojiDictionary = {
   "🍉": "Watermelon",
   "🍊": "Tangerine",
   "🍋": "Lemon",
-  "🍍": "Pineapple"
+  "🍍": "Pineapple",
+  "🥭": "Mango",
+  "🍎": "Apple",
+  "🍐": "Pear",
+  "🍒": "Cherry",
+  "🍓": "Strawberry"
 };
 
 var emojis = Object.keys(emojiDictionary);
